@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2015 The Android Open Source Project
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="dec_point">.</string>
+    <string name="mode_deg">"drjh"</string>
+    <string name="mode_rad">"rad"</string>
+    <string name="clr">"CLR"</string>
+    <string name="cleared"/>
+    <string name="del">pdm</string>
+    <string name="desc_const_e"/>
+    <string name="desc_const_pi"/>
+    <string name="desc_dec_point">"mata"</string>
+    <string name="desc_lparen">"tanda kurung kiri"</string>
+    <string name="desc_rparen">"tanda kurung kanan"</string>
+    <string name="desc_fun_cos">"kosinus"</string>
+    <string name="desc_fun_ln">"logaritma asli"</string>
+    <string name="desc_fun_log">"logaritma"</string>
+    <string name="desc_fun_sin">"sinus"</string>
+    <string name="desc_fun_tan">"tangen"</string>
+    <string name="desc_fun_arccos">"kosinussongsang"</string>
+    <string name="desc_fun_arcsin">"sinussongsang"</string>
+    <string name="desc_fun_arctan">"tangensongsang"</string>
+    <string name="desc_fun_10pow">"sepuluhkuasa"</string>
+    <string name="desc_fun_exp">"fungsieksponen"</string>
+    <string name="desc_op_sqr">"kuasadua"</string>
+    <string name="desc_op_add">"tambah"</string>
+    <string name="desc_op_div">"bahagi"</string>
+    <string name="desc_op_fact">"faktorial"</string>
+    <string name="desc_op_mul">"darab"</string>
+    <string name="desc_op_pct">"peratus"</string>
+    <string name="desc_op_pow">"kuasa"</string>
+    <string name="desc_op_sqrt"/>
+    <string name="desc_op_sub">"tolak"</string>
+    <string name="desc_mode_deg">"moddarjah"</string>
+    <string name="desc_mode_rad">"modradian"</string>
+    <string name="desc_switch_deg">"tukarkepadadarjah"</string>
+    <string name="desc_switch_rad">"tukarkepadaradian"</string>
+    <string name="desc_eq">"sama dengan"</string>
+    <string name="desc_clr">"Padambersih"</string>
+    <string name="desc_del">"Padam"</string>
+    <string name="desc_inv_off">"tunjukkanfungsisongsang"</string>
+    <string name="desc_inv_on">"sembunyikanfungsisongsang"</string>
+    <string name="error_nan">Bukan nombor</string>
+    <string name="error_syntax">"Ungkapansalah"</string>
+    <string name="error_aborted">"Dihentipaksa"</string>
+    <string name="error_overflow">"Takterhingga?"</string>
+    <string name="error_zero_divide">Tidak boleh dibahagikan dengan 0</string>
+    <string name="text_copied_toast">"Teks yang disalin"</string>
+    <string name="cancelled">"Pengiraandibatalkan"</string>
+    <string name="timeout">"Tamatmasa.Nilaimungkintakterhinggaatautakditakrif."</string>
+    <string name="ok_remove_timeout">"Gunakantamatmasayanglebihlama"</string>
+    <string name="dismiss">Tolak</string>
+    <string name="exact">"(tepat)"</string>
+    <string name="approximate">"(±1dalamdigitterakhir)"</string>
+    <string name="menu_leading">"Jwpndgndigitdepan"</string>
+    <string name="menu_fraction">"Jwpnsbgpecahan"</string>
+    <string name="menu_licenses">"Lesen sumber terbuka"</string>
+</resources>

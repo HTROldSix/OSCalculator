@@ -1,0 +1,3 @@
+<resources>
+    <bool name="config_change_alpha">true</bool>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2015 The Android Open Source Project
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+    http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Rechner</string>
+    <string name="dec_point">.</string>
+    <string name="mode_deg">DEG</string>
+    <string name="mode_rad">RAD</string>
+    <string name="clr">CLR</string>
+    <string name="cleared">gelöscht</string>
+    <string name="del">LÖSCHEN</string>
+    <string name="desc_const_e">Eulersche Zahl</string>
+    <string name="desc_const_pi"/>
+    <string name="desc_dec_point">Punkt</string>
+    <string name="desc_lparen">Einschub links</string>
+    <string name="desc_rparen">Einschub rechts</string>
+    <string name="desc_fun_cos">Cosinus</string>
+    <string name="desc_fun_ln">Natürlicher Logarithmus</string>
+    <string name="desc_fun_log">Logarithmus</string>
+    <string name="desc_fun_sin">Sinus</string>
+    <string name="desc_fun_tan">Tangens</string>
+    <string name="desc_fun_arccos">Arkuskosinus</string>
+    <string name="desc_fun_arcsin">Arkussinus</string>
+    <string name="desc_fun_arctan">Arkustangens</string>
+    <string name="desc_fun_10pow">Zehnhoch</string>
+    <string name="desc_fun_exp">Exponentialfunktion</string>
+    <string name="desc_op_sqr">imQuadrat</string>
+    <string name="desc_op_add">Plus</string>
+    <string name="desc_op_div">Dividieren</string>
+    <string name="desc_op_fact">Fakultät</string>
+    <string name="desc_op_mul">Multiplizieren</string>
+    <string name="desc_op_pct">Prozent</string>
+    <string name="desc_op_pow">Leistung</string>
+    <string name="desc_op_sqrt"/>
+    <string name="desc_op_sub">Minus</string>
+    <string name="desc_mode_deg">Grad-Modus</string>
+    <string name="desc_mode_rad">Radiant-Modus</string>
+    <string name="desc_switch_deg">zuGradumschalten</string>
+    <string name="desc_switch_rad">zuRadiantumschalten</string>
+    <string name="desc_eq">Entspricht</string>
+    <string name="desc_clr">Löschen</string>
+    <string name="desc_del">Löschen</string>
+    <string name="desc_inv_off">Arkusfunktionenanzeigen</string>
+    <string name="desc_inv_on">Arkusfunktionenverbergen</string>
+    <string name="error_nan">Keine Zahl</string>
+    <string name="error_syntax">FalscherAusdruck</string>
+    <string name="error_aborted">Abgebrochen</string>
+    <string name="error_overflow">Unendlich?</string>
+    <string name="error_zero_divide">Division durch Null nicht möglich.</string>
+    <string name="text_copied_toast">Text kopiert</string>
+    <string name="cancelled">Berechnungabgebrochen.</string>
+    <string name="timeout">Zeitüberschreitung.Wertunendlichodernichtdefiniert.</string>
+    <string name="ok_remove_timeout">GrößerenZeitüberschreitungswertverwenden.</string>
+    <string name="dismiss">Ablehnen</string>
+    <string name="exact">(exakt)</string>
+    <string name="approximate">(±1beiletzterStelle)</string>
+    <string name="menu_leading">ErgebnismitführendenStellen</string>
+    <string name="menu_fraction">ErgebnisalsBruch</string>
+    <string name="menu_licenses">Open-Source-Lizenzen</string>
+</resources>
